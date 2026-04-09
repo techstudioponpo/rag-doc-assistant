@@ -1,4 +1,4 @@
-# # Architecture（システム概要設計）
+# Architecture（システム概要設計）
 
 ## 目的
 
